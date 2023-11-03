@@ -1,0 +1,3 @@
+Learning how to use git, use mkdir for a new folder
+git init used to start repo
+git status used to check status of the work
